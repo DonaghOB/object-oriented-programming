@@ -1,0 +1,9 @@
+Bronze,QQUE2R,Steve,250.2,true,10.0,0.2,60.04
+Bronze,BH1UWU,Pauline,83.67,true,10.0,0.2,26.734
+Silver,BLPWU1,Jonas,190.0,false,50.0,0.3,107.0
+Silver,TAR2E7,Rango,80.0,false,50.0,0.3,74.0
+Silver,OOJORH,Axl,177.0,true,50.0,0.3,103.1
+Gold,9NWNZ2,Elvis,105.5,true,100.0,0.4,142.2
+Gold,2DCNLC,Bob,57.5,true,100.0,0.4,123.0
+Gold,SK5ZEG,Donagh,210.0,true,100.0,0.4,184.0
+Bronze,921VU1,Ptolemy,112.0,true,10.0,0.2,32.400000000000006
